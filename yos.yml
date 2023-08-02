@@ -2,4 +2,3 @@
 - vyos.vyos.vyos_facts:
     gather_subset: min
     gather_network_resources: interfaces
-Return Values
